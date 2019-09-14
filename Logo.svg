@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="114.77625mm"
+   height="114.77625mm"
+   viewBox="0 0 114.77625 114.77625"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Logo.svg"
+   inkscape:export-filename="C:\Projects\SimplifyNet\Images\Logo.png"
+   inkscape:export-xdpi="92.946053"
+   inkscape:export-ydpi="92.946053">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="41.04434"
+     inkscape:cy="256.27292"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="S"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-71.437492,-68.452928)"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3717"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion3719"><rect
+           id="rect3721"
+           width="162.85715"
+           height="145.71428"
+           x="289.28571"
+           y="520.37683" /></flowRegion><flowPara
+         id="flowPara3723" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d05f33;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="87.947495"
+       y="183.22917"
+       id="text3727"><tspan
+         sodipodi:role="line"
+         id="tspan3725"
+         x="87.947495"
+         y="183.22917"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:158.75px;font-family:'Merkur Cyrillic';-inkscape-font-specification:'Merkur Cyrillic';fill:#dc5f33;fill-opacity:1;stroke-width:0.26458332">S</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="W"
+     style="display:none"
+     transform="translate(0,-5.493164e-6)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="37.603115"
+       y="89.397324"
+       id="text4546"><tspan
+         sodipodi:role="line"
+         id="tspan4544"
+         x="37.603115"
+         y="89.397324"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.83499908px;font-family:'Merkur Cyrillic';-inkscape-font-specification:'Merkur Cyrillic';fill:#4d4849;fill-opacity:1;stroke-width:0.26458332">W</tspan></text>
+  </g>
+</svg>
